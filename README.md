@@ -1,2 +1,2 @@
 # CANino
-Oficial repository of the CANino versions
+Official repository of the CANino versions
